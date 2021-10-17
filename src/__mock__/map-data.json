@@ -1,0 +1,219 @@
+[
+  {
+    "title": "The North",
+    "layer": "kingdoms",
+    "type": "Feature",
+    "properties": {
+      "zoomLevel": 4,
+      "type": "Kingdom",
+      "summaryHtml": "<h3>KINGDOM</h3><div>Size Estimate - 2,621,185 km²</div><div>Number of Castles - 13</div><h3>Summary</h3><div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et rhoncus odio, efficitur pretium ex. Nullam et felis eget ipsum efficitur bibendum nec in velit. Nam id massa elit. Duis suscipit nunc et ante maximus hendrerit. Maecenas vitae tincidunt justo. Ut accumsan, augue et ornare lobortis, arcu nulla luctus lacus, at interdum diam orci sit amet dolor. Donec maximus ante mi, vel blandit quam tempus sed. Sed neque enim, aliquam sit amet elit sit amet, interdum pulvinar dolor. Nullam ullamcorper augue arcu, at gravida nisi sagittis ornare. Maecenas convallis hendrerit efficitur. In sit amet odio eget metus consequat facilisis.</div>",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et rhoncus odio, efficitur pretium ex. Nullam et felis eget ipsum efficitur bibendum nec in velit. Nam id massa elit. Duis suscipit nunc et ante maximus hendrerit. Maecenas vitae tincidunt justo. Ut accumsan, augue et ornare lobortis, arcu nulla luctus lacus, at interdum diam orci sit amet dolor. Donec maximus ante mi, vel blandit quam tempus sed. Sed neque enim, aliquam sit amet elit sit amet, interdum pulvinar dolor. Nullam ullamcorper augue arcu, at gravida nisi sagittis ornare. Maecenas convallis hendrerit efficitur. In sit amet odio eget metus consequat facilisis.",
+      "list": [
+        "Size Estimate - 2,621,185 km²",
+        "Number of Castles - 13"
+      ]
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [12, 28],
+            [14,  28],
+            [17,  25],
+            [12, 25],
+            [12, 28]
+          ], [
+            [5, 28],
+            [7,  28],
+            [8,  25],
+            [5, 25],
+            [5, 28]
+          ]
+        ]
+    }
+  },
+  {
+    "title": "The Vale",
+    "layer": "kingdoms",
+    "type": "Feature",
+    "properties": {
+      "zoomLevel": 4,
+      "type": "Kingdom",
+      "readMoreLink": "https://google.com",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et rhoncus odio, efficitur pretium ex. Nullam et felis eget ipsum efficitur bibendum nec in velit. Nam id massa elit. Duis suscipit nunc et ante maximus hendrerit. Maecenas vitae tincidunt justo. Ut accumsan, augue et ornare lobortis, arcu nulla luctus lacus, at interdum diam orci sit amet dolor. Donec maximus ante mi, vel blandit quam tempus sed. Sed neque enim, aliquam sit amet elit sit amet, interdum pulvinar dolor. Nullam ullamcorper augue arcu, at gravida nisi sagittis ornare. Maecenas convallis hendrerit efficitur. In sit amet odio eget metus consequat facilisis.",
+      "list": [
+        "Size Estimate - 684,321 km²",
+        "Number of Castles - 12"
+      ]
+    },
+    "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+            [12, 18],
+            [14,  18],
+            [17,  15],
+            [12, 15],
+            [12, 18]
+          ], [
+            [5, 18],
+            [7,  18],
+            [8,  15],
+            [5, 15],
+            [5, 18]
+          ]
+        ]
+    }
+  },
+  {
+    "title": "Acorn Hall",
+    "layer": "castles",
+    "type": "Feature",
+    "properties": {
+      "zoomLevel": 5,
+      "type": "Castle",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et rhoncus odio, efficitur pretium ex. Nullam et felis eget ipsum efficitur bibendum nec in velit. Nam id massa elit. Duis suscipit nunc et ante maximus hendrerit. Maecenas vitae tincidunt justo. Ut accumsan, augue et ornare lobortis, arcu nulla luctus lacus, at interdum diam orci sit amet dolor. Donec maximus ante mi, vel blandit quam tempus sed. Sed neque enim, aliquam sit amet elit sit amet, interdum pulvinar dolor. Nullam ullamcorper augue arcu, at gravida nisi sagittis ornare. Maecenas convallis hendrerit efficitur. In sit amet odio eget metus consequat facilisis.",
+      "list": [
+        "Year Built - 329 AD",
+        "Resident - The Hentges"
+      ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [50, -60]
+    }
+  },
+  {
+    "title": "Antlers",
+    "layer": "cities",
+    "type": "Feature",
+    "properties": {
+      "zoomLevel": 5,
+      "type": "City",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et rhoncus odio, efficitur pretium ex. Nullam et felis eget ipsum efficitur bibendum nec in velit. Nam id massa elit. Duis suscipit nunc et ante maximus hendrerit. Maecenas vitae tincidunt justo. Ut accumsan, augue et ornare lobortis, arcu nulla luctus lacus, at interdum diam orci sit amet dolor. Donec maximus ante mi, vel blandit quam tempus sed. Sed neque enim, aliquam sit amet elit sit amet, interdum pulvinar dolor. Nullam ullamcorper augue arcu, at gravida nisi sagittis ornare. Maecenas convallis hendrerit efficitur. In sit amet odio eget metus consequat facilisis.",
+      "list": [
+        "Size Estimate - 75.23 km²",
+        "Population Estimate - 15,987"
+      ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [55, -60]
+    }
+  },
+  {
+    "title": "Sisterton",
+    "layer": "towns",
+    "type": "Feature",
+    "properties": {
+      "zoomLevel": 5,
+      "type": "Town",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et rhoncus odio, efficitur pretium ex. Nullam et felis eget ipsum efficitur bibendum nec in velit. Nam id massa elit. Duis suscipit nunc et ante maximus hendrerit. Maecenas vitae tincidunt justo. Ut accumsan, augue et ornare lobortis, arcu nulla luctus lacus, at interdum diam orci sit amet dolor. Donec maximus ante mi, vel blandit quam tempus sed. Sed neque enim, aliquam sit amet elit sit amet, interdum pulvinar dolor. Nullam ullamcorper augue arcu, at gravida nisi sagittis ornare. Maecenas convallis hendrerit efficitur. In sit amet odio eget metus consequat facilisis.",
+      "list": [
+        "Size Estimate - 0.23 km²",
+        "Population Estimate - 387"
+      ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [60, -60]
+    }
+  },
+  {
+    "title": "The Whispers",
+    "layer": "ruins",
+    "type": "Feature",
+    "properties": {
+      "zoomLevel": 5,
+      "summaryHtml": "<h3>KINGDOM</h3><div>Size Estimate - 2,621,185 km²</div><div>Number of Castles - 13</div><h3>Summary</h3><div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et rhoncus odio, efficitur pretium ex. Nullam et felis eget ipsum efficitur bibendum nec in velit. Nam id massa elit. Duis suscipit nunc et ante maximus hendrerit. Maecenas vitae tincidunt justo. Ut accumsan, augue et ornare lobortis, arcu nulla luctus lacus, at interdum diam orci sit amet dolor. Donec maximus ante mi, vel blandit quam tempus sed. Sed neque enim, aliquam sit amet elit sit amet, interdum pulvinar dolor. Nullam ullamcorper augue arcu, at gravida nisi sagittis ornare. Maecenas convallis hendrerit efficitur. In sit amet odio eget metus consequat facilisis.</div>",
+      "type": "Ruin",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et rhoncus odio, efficitur pretium ex. Nullam et felis eget ipsum efficitur bibendum nec in velit. Nam id massa elit. Duis suscipit nunc et ante maximus hendrerit. Maecenas vitae tincidunt justo. Ut accumsan, augue et ornare lobortis, arcu nulla luctus lacus, at interdum diam orci sit amet dolor. Donec maximus ante mi, vel blandit quam tempus sed. Sed neque enim, aliquam sit amet elit sit amet, interdum pulvinar dolor. Nullam ullamcorper augue arcu, at gravida nisi sagittis ornare. Maecenas convallis hendrerit efficitur. In sit amet odio eget metus consequat facilisis.",
+      "list": [
+        "Builders - The Maya",
+        "Year Built Estimate - 978 BC"
+      ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [65, -60]
+    }
+  },
+  {
+    "title": "The Flatlands",
+    "layer": "regions",
+    "type": "Feature",
+    "properties": {
+      "zoomLevel": 5,
+      "type": "Region",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et rhoncus odio, efficitur pretium ex. Nullam et felis eget ipsum efficitur bibendum nec in velit. Nam id massa elit. Duis suscipit nunc et ante maximus hendrerit. Maecenas vitae tincidunt justo. Ut accumsan, augue et ornare lobortis, arcu nulla luctus lacus, at interdum diam orci sit amet dolor. Donec maximus ante mi, vel blandit quam tempus sed. Sed neque enim, aliquam sit amet elit sit amet, interdum pulvinar dolor. Nullam ullamcorper augue arcu, at gravida nisi sagittis ornare. Maecenas convallis hendrerit efficitur. In sit amet odio eget metus consequat facilisis.",
+      "list": [
+        "Inhabitants - The Romans"
+      ]
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates": [80, -60]
+    }
+  },
+  {
+    "title": "Daggar Lake",
+    "layer": "landmarks",
+    "type": "Feature",
+    "properties": {
+      "zoomLevel": 4,
+      "type": "Landmark",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et rhoncus odio, efficitur pretium ex. Nullam et felis eget ipsum efficitur bibendum nec in velit. Nam id massa elit. Duis suscipit nunc et ante maximus hendrerit. Maecenas vitae tincidunt justo. Ut accumsan, augue et ornare lobortis, arcu nulla luctus lacus, at interdum diam orci sit amet dolor. Donec maximus ante mi, vel blandit quam tempus sed. Sed neque enim, aliquam sit amet elit sit amet, interdum pulvinar dolor. Nullam ullamcorper augue arcu, at gravida nisi sagittis ornare. Maecenas convallis hendrerit efficitur. In sit amet odio eget metus consequat facilisis.",
+      "list": []
+    },
+    "geometry": {
+        "type": "Point",
+        "coordinates2": [75, -60],
+        "coordinates": [15, 28]
+    }
+  },
+  {
+    "title": "Kingdom of Misthalin",
+    "layer": "labels",
+    "type": "Feature",
+    "properties": {
+      "styling": {
+        "fontSize": 30,
+        "color": "orange",
+        "width": 220,
+        "marginLeft": -110,
+        "marginTop": -40,
+        "lineHeight": 1.2
+      },
+      "labelText": "Kingdom of Misthalin",
+      "zoomLevel": 4,
+      "type": "Label",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et rhoncus odio, efficitur pretium ex. Nullam et felis eget ipsum efficitur bibendum nec in velit. Nam id massa elit. Duis suscipit nunc et ante maximus hendrerit. Maecenas vitae tincidunt justo. Ut accumsan, augue et ornare lobortis, arcu nulla luctus lacus, at interdum diam orci sit amet dolor. Donec maximus ante mi, vel blandit quam tempus sed. Sed neque enim, aliquam sit amet elit sit amet, interdum pulvinar dolor. Nullam ullamcorper augue arcu, at gravida nisi sagittis ornare. Maecenas convallis hendrerit efficitur. In sit amet odio eget metus consequat facilisis.",
+      "list": []
+    },
+    "geometry": {
+        "type": "Label",
+        "coordinates": [70, -60]
+    }
+  },
+  {
+    "title": "Varrock",
+    "layer": "labels",
+    "type": "Feature",
+    "properties": {
+      "styling": {
+        "fontStyle": "italic",
+        "fontSize": 11,
+        "color": "black",
+        "width": 80,
+        "marginTop": -5
+      },
+      "labelText": "• Varrock",
+      "zoomLevel": 5,
+      "type": "Label",
+      "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et rhoncus odio, efficitur pretium ex. Nullam et felis eget ipsum efficitur bibendum nec in velit. Nam id massa elit. Duis suscipit nunc et ante maximus hendrerit. Maecenas vitae tincidunt justo. Ut accumsan, augue et ornare lobortis, arcu nulla luctus lacus, at interdum diam orci sit amet dolor. Donec maximus ante mi, vel blandit quam tempus sed. Sed neque enim, aliquam sit amet elit sit amet, interdum pulvinar dolor. Nullam ullamcorper augue arcu, at gravida nisi sagittis ornare. Maecenas convallis hendrerit efficitur. In sit amet odio eget metus consequat facilisis.",
+      "list": []
+    },
+    "geometry": {
+        "type": "Label",
+        "coordinates": [68, -50]
+    }
+  }
+]

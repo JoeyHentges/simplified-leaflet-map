@@ -1,0 +1,58 @@
+{
+  "styling": {
+    "backgroundColor": "#6476A6",
+    "zoomControl": {
+      "backgroundColor": "#1B1F27",
+      "backgroundHoverColor": "#ffffff",
+      "iconColor": "#ffffff",
+      "iconHoverColor": "#1B1F27",
+      "iconDisabledColor": "#9FA1AD"
+    },
+    "geoJson": {
+      "color": "#20242e",
+      "activeColor": "blue",
+      "opacity": 0.2,
+      "lineWeight": 1
+    },
+    "marker": {
+      "iconSize": [24, 56],
+      "popupBackgroundColor": "#1B1F27",
+      "popupTextColor": "#ffffff"
+    },
+    "label": {
+      "font": "AdelleSans,system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol"
+    },
+    "infoPanel": {
+      "backgroundColor": "#1B1F27",
+      "textColor": "#ffffff",
+      "initialTitleText": "Nothing Selected",
+      "titleFont": "MedievalSharp, cursive",
+      "contentBackgroundColor": "#252a36",
+      "scrollbarBackgroundColor": "#252a36",
+      "scrollbarColor": "#ffffff"
+    },
+    "layerPanel": {
+      "backgroundColor": "#20242e",
+      "textColor": "#ffffff",
+      "layerBorder": "1px solid #ffffff",
+      "font": "AdelleSans,system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol",
+      "layerTextColor": "grey",
+      "layerActiveTextColor": "#ffffff"
+    },
+    "searchBar": {
+      "backgroundColor": "#20242e",
+      "textColor": "#ffffff",
+      "border": "3px solid #1B1F27",
+      "resultBackgroundColor": "#20242e",
+      "resultHoverBackgroundColor": "#1B1F27"
+    }
+  },
+  "markerIcons": {
+    "castles": "https://cdn.patricktriest.com/atlas-of-thrones/icons/castle.svg",
+    "cities": "https://cdn.patricktriest.com/atlas-of-thrones/icons/city.svg",
+    "towns": "https://cdn.patricktriest.com/atlas-of-thrones/icons/town.svg",
+    "ruins": "https://cdn.patricktriest.com/atlas-of-thrones/icons/ruin.svg",
+    "regions": "https://cdn.patricktriest.com/atlas-of-thrones/icons/region.svg",
+    "landmarks": "https://cdn.patricktriest.com/atlas-of-thrones/icons/landmark.svg"
+  }
+}

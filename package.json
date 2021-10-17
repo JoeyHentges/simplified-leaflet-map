@@ -1,0 +1,42 @@
+{
+  "name": "@joeyhentges/simplified-leaflet-map",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git://github.com/joeyhentges/simplified-leaflet-map.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "test": "react-scripts test --coverage --watchAll",
+    "eject": "react-scripts eject",
+    "clean": "rm -rf dist",
+    "prepare-build": "npm run clean && NODE_ENV=production babel src/lib --out-dir dist --extensions \".js\" --ignore 'src/lib/**/*.test.js'",
+    "copy": "cp package.json dist/ && cp README.md dist/ && cp .npmrc dist/",
+    "build": "npm run prepare-build && npm run copy"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not op_mini all"
+  ],
+  "dependencies": {
+    "leaflet": "^1.7.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-leaflet": "^3.2.1",
+    "react-scripts": "^4.0.3",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^12.1.3"
+  }
+}
